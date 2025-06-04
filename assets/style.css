@@ -1,0 +1,33 @@
+#login{
+    width: 100px; /* aumenta a largura */
+    height: 50px; /* aumentar a altura */
+    background-color:rgb(212, 0, 0);
+    color: azure;
+    border-radius: 20px; 
+    border: none;
+}
+
+.menu{
+   display: flex;
+   justify-content: space-between ;
+   align-items: center;
+   flex-direction: row;
+   background-color: bisque;
+}
+
+.ab{
+    background-color: blue;
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#banner{
+    height: 450px;
+    
+
+
+}
